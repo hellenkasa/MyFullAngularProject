@@ -1,0 +1,36 @@
+
+marquee{ 
+    font-size: 20px;
+    margin-top:30px;
+    /* direction:left; */
+}
+
+h1{ 
+    text-align: center;
+    margin-top:50px;
+    
+
+}
+.container { 
+    padding: 16px;
+    margin: auto;
+  
+   
+}
+
+#a{
+    height:50%;
+    width:30%;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 5%;
+}
+
+#btn1{
+    margin-right: 20px;
+}
+
+h3{ 
+    text-align: center;
+}
+
